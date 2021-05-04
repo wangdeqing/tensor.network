@@ -1,2 +1,2 @@
 # tensor.network
-Tensor Network
+A website of academic research on tensor network
